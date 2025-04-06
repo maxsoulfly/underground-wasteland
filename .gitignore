@@ -1,0 +1,22 @@
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# PHP config
+includes/config.php
+
+# Composer (if you use it later)
+vendor/
+composer.lock
+
+# Node (if you use frontend tooling later)
+node_modules/
+
+# Build/artifact files
+*.log
+*.tmp
+*.bak
